@@ -1,4 +1,4 @@
-# Ease Me : A Mental Health Care App
+# EaseMe : A Mental Health Care App
 ## Project Overview
 * Creating an android app that connects two entities ; Helper and Patient.  
 * Integrating sign up and login pages for individual experience and privacy.
