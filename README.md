@@ -11,7 +11,7 @@
 **MIN-Max SDK**: 22-33  
 **Packages/Dependencies**: XML, Java, Firebase, Material3, Piers Francestotti YT-Player  
 **Tested Version**: Android 12  
-**Chat Template Article**: https://sendbird.com/developer/tutorials/android-chat-tutorial-building-a-messaging-ui
+**Chat Template Article**: https://sendbird.com/developer/tutorials/android-chat-tutorial-building-a-messaging-ui  
 **Part Logic**: https://www.youtube.com/@NeatRoots
 
 ## Attributes
